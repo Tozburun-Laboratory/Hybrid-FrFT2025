@@ -2,6 +2,8 @@
 %%% File %% Hybrid Fractional Order Hologram Simulation 
 %%% Author %% Müge Topcu
 %%% Supervisor %% Serhat Tozburun
+%%% Upload Date %% 09 Aug 2025
+%%% Version Date %% 09 Aug 2025
 %%%%%%%%%%%%%%%%%%%%%%%% TOZBURUN LABORATORY %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc
 clear 
@@ -96,4 +98,5 @@ angles_d = [a_d, a_d];
 frft_holo = frft22d((single(holo)), angles_d); %Digital FrFT
 figure; imagesc(log(abs(frft_holo))); colormap(gray); axis image; axis off;  title(sprintf('k space of hybrid frft hologram a_o=%.2f, a_d=%.2f', a_o, a_d));
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %%%%%%%%%%%%%%%%%%%%%%%% TOZBURUN LABORATORY %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
