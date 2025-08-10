@@ -41,7 +41,7 @@ Website: https://www.ibg.edu.tr/research-programs/groups/tozburun-lab
 
 Contact:
 
-Müge TOPCU (PhD Student) muge.topcu@ibg.edu.tr
+Müge Topcu (PhD Student) muge.topcu@ibg.edu.tr
 
 Assoc. Prof. Dr. Serhat Tozburun serhat.tozburun@ibg.edu.tr
 
